@@ -1,4 +1,13 @@
 # GPS
+## Equipe N1:
+- Thiago @Thisaraiva
+- Maruan @CodyKoInABox
+- Ricardo @SchlieperRicardo
+- Icaro @icrcode
+- Gustavo @gtins
+
+
+
 
 ![image](https://github.com/user-attachments/assets/fc148228-8146-4652-b69b-4bfbe34316ed)
 -----
